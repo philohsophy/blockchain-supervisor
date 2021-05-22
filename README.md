@@ -1,7 +1,7 @@
-# dummy-blockchain-supervisor
+# blockchain-supervisor
 
-Part of [Dummy-Blockchain project](https://github.com/users/philohsophy/projects/1)
+Part of [Blockchain-Demo project](https://github.com/philohsophy/blockchain-demo)
 
 ## Outline
 
-Supervisor for dummy-blockchain
+Supervisor of the blockchain
